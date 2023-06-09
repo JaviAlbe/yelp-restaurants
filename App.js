@@ -18,3 +18,6 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 });
+
+//YELP API KEY
+//VdQ_VQz5NJxp88xLTHpoWlyw6gMmxRTY3vszLfPFew-Y5bcwP-24-JpuSQ2jZ8wBFObb20fXV8t7W50VK-jyRWGbPSfp4KDqNsr2_lYb3Az1g3zx_09QRGdR9-uCZHYx
