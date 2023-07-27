@@ -22,7 +22,7 @@ export default () => {
 
     //Search for term 'pasta' when the component first renders
     useEffect(() => {
-        searchApi('pasta')
+        searchApi('pizza')
     }, [])
 
     return [searchApi, results, errorMessage]
